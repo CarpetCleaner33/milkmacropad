@@ -26,11 +26,11 @@ Anything I used will be linked in the 'Aknowledgements' section.
 
 ## Installation
 
-Guide users through the process of installing and setting up your project. Include any dependencies or requirements, and provide code examples or commands that users can run to get started.
+- In Progress
 
 ## Usage
 
-Explain how to use your project and provide examples or instructions. Include any important details or considerations that users should be aware of.
+This macropad will be binded to the f13 and f14 keys. These will probably be programmed using an open source keyboard firmware builder such as [kbfirmware](https://kbfirmware.com/)
 
 ## Timeline
 
