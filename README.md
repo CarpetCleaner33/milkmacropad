@@ -9,6 +9,7 @@ Mini micro pad with two keys. Based on the Arduino Pro Micro.
 - [Installation](#installation)
 - [Usage](#usage)
 - [Timeline](#timeline)
+- [Photos](photos)
 - [License](#license)
 - [Acknowledgements](#acknowledgements)
 - [Contact](#contact)
@@ -20,7 +21,7 @@ Micro pad inspired by the Milk 2% Keyboard. In this project, I designed the hous
 ## Design Process
 
 The Arduino/switch housing was designed using Autodesk's Fusion 360 CAD software. This first iteration of the model was done in late 2022 but current version was finished as of writing this ( June 2023). I was swamnped with exams
-and the project had to be put on a stop. Measurements for the mechanical switch cut out was obtained from the Redox Handwire mechanical keyboard by Mattia Dal Ben. On my first attempt, my cutouts were 1.6ish mm short and the switches were not able to fit in.
+and the project had to be put on a stop. Measurements for the mechanical switch cut out was obtained from the Redox Handwire mechanical keyboard by Mattia Dal Ben. On my first attempt, my cutouts were 1.6ish mm short and the switches were not able to fit in. This macro pad uses imitation Cherry MX Reds which I had lying around.
 Anything I used will be linked in the 'Aknowledgements' section.
 
 
@@ -30,14 +31,21 @@ Anything I used will be linked in the 'Aknowledgements' section.
 
 ## Usage
 
-This macropad will be binded to the f13 and f14 keys. These will probably be programmed using an open source keyboard firmware builder such as [kbfirmware](https://kbfirmware.com/)
+This macropad will be binded to the f13 and f14 keys. These will probably be programmed using an open source keyboard firmware builder such as [kbfirmware](https://kbfirmware.com/).
 
 ## Timeline
 
+- First iteration of milk carton designed (Late 2022)
+- First assembled prototype printed (June 2023)
+- Github created (June 2023)
+
+## Photos
+
+- In Progress
 
 ## License
 
-Specify the license under which you're releasing your project. Choose an appropriate license and mention it here.
+- In Progress
 
 ## Acknowledgements
 
