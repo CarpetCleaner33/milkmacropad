@@ -41,7 +41,11 @@ This macropad will be binded to the f13 and f14 keys. These will probably be pro
 
 ## Photos
 
-![image 1](CarpetCleaner33/milkmacropad/Milk Carton/images/IMG_3073.jpg)
+![image 1](https://github.com/CarpetCleaner33/milkmacropad/blob/main/Milk%20Carton/images/IMG_3073.jpg)
+- First iteration vs latest iteration (June 2023)
+  - 15% larger to account for wires and pro micro board
+
+![image 2]()
 
 ## License
 
