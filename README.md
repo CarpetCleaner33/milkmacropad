@@ -64,4 +64,4 @@ This macropad will be binded to the f13 and f14 keys. These will probably be pro
   - [1u Blank Keycap on Thingiverse](https://www.thingiverse.com/thing:5616342)
 ## Contact
 
-For any information, you can contact me at tylervanlim@gmail.com
+For any information, you can contact me at: tylervanlim@gmail.com
