@@ -1,6 +1,6 @@
 # Milk Micro Pad
 
-A brief description of your project.
+Mini micro pad with two keys. Based on the Arduino Pro Micro.
 
 ## Table of Contents
 
@@ -8,16 +8,21 @@ A brief description of your project.
 - [Design Process](#design-process)
 - [Installation](#installation)
 - [Usage](#usage)
+- [Timeline](#timeline)
 - [License](#license)
 - [Acknowledgements](#acknowledgements)
 - [Contact](#contact)
 
 ## Project Description
 
-Provide a more detailed overview of your project here. Describe its purpose, features, and any other relevant information that would help users understand what your project is about.
+Micro pad inspired by the Milk 2% Keyboard. In this project, I designed the housing and attempted to replicate the key pad without the use of custom PCB's.
 
 ## Design Process
-woagjipeggwsrgr
+
+The Arduino/switch housing was designed using Autodesk's Fusion 360 CAD software. This first iteration of the model was done in late 2022 but current version was finished as of writing this ( June 2023). I was swamnped with exams
+and the project had to be put on a stop. Measurements for the mechanical switch cut out was obtained from the Redox Handwire mechanical keyboard by Mattia Dal Ben. On my first attempt, my cutouts were 1.6ish mm short and the switches were not able to fit in.
+Anything I used will be linked in the 'Aknowledgements' section.
+
 
 ## Installation
 
@@ -27,14 +32,29 @@ Guide users through the process of installing and setting up your project. Inclu
 
 Explain how to use your project and provide examples or instructions. Include any important details or considerations that users should be aware of.
 
+## Timeline
+
+
 ## License
 
 Specify the license under which you're releasing your project. Choose an appropriate license and mention it here.
 
 ## Acknowledgements
 
-If there are any individuals, projects, or resources that you would like to acknowledge, you can include them in this section.
+-> Softwares used:
+  -x Autodesk Fusion 360
+  -x Ultimaker Cura
+  
+-> Printer and filament used
+  -x Creality Ender 3 S1
+  -x Inland PLA+ White Filament
+
+-> Mechanical key switch dimensions gathered from Redox Handwire Mechanical Keyboard
+  -x https://hackaday.io/project/160610-redox-keyboard/log/151316-redox-handwire
+  
+-> 1u blank keycap STL file by LazarosVarvatis on Thingiverse
+  -x https://www.thingiverse.com/thing:5616342
 
 ## Contact
 
-Provide your contact information, such as an email address or social media handles, so that users can reach out to you with questions, feedback, or inquiries.
+For any information, you can contact me at tylervanlim@gmail.com
