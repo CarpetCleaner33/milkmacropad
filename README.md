@@ -41,20 +41,19 @@ Specify the license under which you're releasing your project. Choose an appropr
 
 ## Acknowledgements
 
--> Softwares used:
-  -x Autodesk Fusion 360
-  -x Ultimaker Cura
-  
--> Printer and filament used
-  -x Creality Ender 3 S1
-  -x Inland PLA+ White Filament
+- Softwares used:
+  - Autodesk Fusion 360
+  - Ultimaker Cura
 
--> Mechanical key switch dimensions gathered from Redox Handwire Mechanical Keyboard
-  -x https://hackaday.io/project/160610-redox-keyboard/log/151316-redox-handwire
-  
--> 1u blank keycap STL file by LazarosVarvatis on Thingiverse
-  -x https://www.thingiverse.com/thing:5616342
+- Printer and filament used:
+  - Creality Ender 3 S1
+  - Inland PLA+ White Filament
 
+- Mechanical key switch dimensions gathered from Redox Handwire Mechanical Keyboard:
+  - [Redox Handwire Project](https://hackaday.io/project/160610-redox-keyboard/log/151316-redox-handwire)
+
+- 1u blank keycap STL file by LazarosVarvatis on Thingiverse:
+  - [1u Blank Keycap on Thingiverse](https://www.thingiverse.com/thing:5616342)
 ## Contact
 
 For any information, you can contact me at tylervanlim@gmail.com
