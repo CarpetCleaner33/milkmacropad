@@ -44,8 +44,11 @@ This macropad will be binded to the f13 and f14 keys. These will probably be pro
 ![image 1](https://github.com/CarpetCleaner33/milkmacropad/blob/main/Milk%20Carton/images/IMG_3073.jpg)
 - First iteration vs latest iteration (June 2023)
   - 15% larger to account for wires and pro micro board
+  - 20% infil, cubic
+  - Standard print quality (0.20 mm)
 
-![image 2]()
+![image 2](https://github.com/CarpetCleaner33/milkmacropad/blob/main/Milk%20Carton/images/IMG_3071.jpg)
+- Arduino will be mounted to the door of the milk carton (I haven't done this yet)
 
 ## License
 
