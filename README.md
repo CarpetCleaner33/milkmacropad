@@ -1,18 +1,23 @@
-# Project Title
+# Milk Micro Pad
 
 A brief description of your project.
 
 ## Table of Contents
 
 - [Project Description](#project-description)
+- [Design Process](#design-process)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
 - [License](#license)
+- [Acknowledgements](#acknowledgements)
+- [Contact](#contact)
 
 ## Project Description
 
 Provide a more detailed overview of your project here. Describe its purpose, features, and any other relevant information that would help users understand what your project is about.
+
+## Design Process
+woagjipeggwsrgr
 
 ## Installation
 
@@ -21,10 +26,6 @@ Guide users through the process of installing and setting up your project. Inclu
 ## Usage
 
 Explain how to use your project and provide examples or instructions. Include any important details or considerations that users should be aware of.
-
-## Contributing
-
-Indicate if you're open to contributions and explain how others can contribute to your project. This may include guidelines for submitting bug reports, feature requests, or pull requests. Be clear about your expectations for contributors and how you plan to handle contributions.
 
 ## License
 
