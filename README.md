@@ -44,7 +44,7 @@ This macro pad will be bound to the f13 and f14 keys. These will probably be pro
 
 ![image 1](https://github.com/CarpetCleaner33/milkmacropad/blob/main/Milk%20Carton/images/IMG_3073.jpg)
 - First iteration vs latest iteration (June 2023)
-  - 15% larger to account for wires and Arduino pro micro
+  - 15% larger to account for wires and Arduino Pro Micro
   - 20% infill, cubic
   - Standard print quality (0.20 mm)
 
